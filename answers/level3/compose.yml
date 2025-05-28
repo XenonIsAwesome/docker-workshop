@@ -1,0 +1,21 @@
+services:
+  server:
+    container_name: docker-workshop-server
+    image: docker-workshop-server
+    build:
+      dockerfile: server.Dockerfile
+    environment:
+      PORT: "8989"
+    network_mode: host
+  
+  client:
+    container_name: docker-workshop-client
+    image: docker-workshop-client
+    build:
+      dockerfile: client.Dockerfile
+    environment:
+      SERVER_HOST: "172.17.0.1"
+      PORT: "8989"
+    network_mode: host
+    depends_on:
+      - server

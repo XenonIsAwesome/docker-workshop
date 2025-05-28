@@ -1,2 +1,2 @@
 .vscode/
-answers/build/
+answers/*/build/

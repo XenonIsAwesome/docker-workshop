@@ -1,4 +1,0 @@
-/home/xenon/projects/docker-workshop/answers/build/CMakeFiles/server.dir
-/home/xenon/projects/docker-workshop/answers/build/CMakeFiles/client.dir
-/home/xenon/projects/docker-workshop/answers/build/CMakeFiles/edit_cache.dir
-/home/xenon/projects/docker-workshop/answers/build/CMakeFiles/rebuild_cache.dir

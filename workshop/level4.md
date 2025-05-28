@@ -8,7 +8,8 @@ Fun's over, time to optimize your bad dockerfile.
 Make your docker image the minimum amount of layers.
 
 ## Constraints
-Only 2 additional layer are allowed.
+1. Only 2 additional layer are allowed.
+2. You must do everything in a single Dockerfile.
 
 ## Additional notes
 > Hint: Research about multi-stage builds

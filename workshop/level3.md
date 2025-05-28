@@ -6,4 +6,4 @@ My jokes are getting less and less funny.
 2. Add the server and client as services
 
 ## Constraints
-1. Your code must work immidiately on the start of the containers, no restarts!
+Your code must work immidiately on the start of the containers, no restarts!

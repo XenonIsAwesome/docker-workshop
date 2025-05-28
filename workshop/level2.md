@@ -5,4 +5,4 @@ Or good C++, depends on Level 1
 Write a Dockerfile/files and containerize your C++ code.
 
 ## Constraints
-1. None, go wild!
+None, go wild!

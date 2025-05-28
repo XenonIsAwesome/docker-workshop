@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/server.dir/src/server.cpp.o CMakeFiles/server.dir/src/utils/general_utils.cpp.o CMakeFiles/server.dir/src/utils/net_utils.cpp.o -o server 

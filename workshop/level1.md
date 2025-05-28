@@ -3,7 +3,7 @@ This is indeed a docker workshop, but first we need to make something to contain
 
 ## Question
 In C++:
-1. Make an socket server that prints the data it receives.
+1. Make a socket server that prints the data it receives.
 2. Make a socket client that sends a constant buffer.
 
 ## Constraints
